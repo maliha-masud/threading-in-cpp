@@ -17,6 +17,6 @@ resultant matrix.
 
 <img width="301" alt="image" src="https://github.com/maliha-masud/threading-in-cpp/assets/121713404/6f22381b-8fca-4d29-9f56-f703ce62d857">
 
-The value 8 is calculated using only one thread.
+> The value 8 is calculated using only one thread.
 
 Two matrices, A and B of size 3x3 both, are taken from the user and nine threads are created to calculate each value of the resultant matrix.
