@@ -5,7 +5,6 @@ Takes a filename as input and counts the number of alphabets in the mentioned fi
 **Note: Does not consider upper and lower case**
 
 ### T2
-//https://www.geeksforgeeks.org/merge-sort/
 The performance of merge sort, which is a divide-and-conquer technique, can be improved using multithreading. Four threads are created and the array is divided among these threads and sorted using merge sort. The size of the array and array elements are input by the user. 
 > [Helping merge sort code](//https://www.geeksforgeeks.org/merge-sort/)
 **Note: The number of threads is equivalent to the number of cores in the system this project was created on.**
