@@ -2,6 +2,7 @@
 
 ### T1
 Takes a filename as input and counts the number of alphabets in the mentioned file. Twenty-six threads are created; each thread is responsible for the counting of a particular letter in the file. All threads print and return their character count. Main thread receives the count of each thread and prints the sum (which is equivalent to the total number of characters in the file). The character that the thread has to count is passed as input parameter to it.
+
 **Note: Does not consider upper and lower case**
 
 ### T2
